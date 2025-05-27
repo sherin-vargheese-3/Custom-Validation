@@ -1,9 +1,9 @@
-package com.exercise.ProductCustomValidation.model;
+package com.exercise.productcustomvalidation.model;
 
 
-import com.exercise.ProductCustomValidation.validation.annotations.ValidCategory;
-import com.exercise.ProductCustomValidation.validation.annotations.ValidPrice;
-import com.exercise.ProductCustomValidation.validation.annotations.ValidSku;
+import com.exercise.productcustomvalidation.validation.annotations.ValidCategory;
+import com.exercise.productcustomvalidation.validation.annotations.ValidPrice;
+import com.exercise.productcustomvalidation.validation.annotations.ValidSku;
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;

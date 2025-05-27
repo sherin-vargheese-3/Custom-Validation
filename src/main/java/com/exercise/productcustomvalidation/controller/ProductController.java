@@ -1,7 +1,7 @@
-package com.exercise.ProductCustomValidation.controller;
+package com.exercise.productcustomvalidation.controller;
 
-import com.exercise.ProductCustomValidation.contract.ProductDTO;
-import com.exercise.ProductCustomValidation.service.ProductService;
+import com.exercise.productcustomvalidation.contract.ProductDTO;
+import com.exercise.productcustomvalidation.service.ProductService;
 import jakarta.validation.Valid;
 import org.springframework.web.bind.annotation.*;
 

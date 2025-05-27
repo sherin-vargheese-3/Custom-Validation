@@ -1,4 +1,4 @@
-package com.exercise.ProductCustomValidation.contract;
+package com.exercise.productcustomvalidation.contract;
 
 import lombok.Builder;
 import lombok.Data;

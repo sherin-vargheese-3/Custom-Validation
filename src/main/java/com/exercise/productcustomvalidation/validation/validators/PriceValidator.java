@@ -1,6 +1,6 @@
-package com.exercise.ProductCustomValidation.validation.validators;
+package com.exercise.productcustomvalidation.validation.validators;
 
-import com.exercise.ProductCustomValidation.validation.annotations.ValidPrice;
+import com.exercise.productcustomvalidation.validation.annotations.ValidPrice;
 import jakarta.validation.ConstraintValidator;
 import jakarta.validation.ConstraintValidatorContext;
 

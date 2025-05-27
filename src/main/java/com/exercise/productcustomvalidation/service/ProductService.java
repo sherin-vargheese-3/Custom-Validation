@@ -1,8 +1,8 @@
-package com.exercise.ProductCustomValidation.service;
+package com.exercise.productcustomvalidation.service;
 
-import com.exercise.ProductCustomValidation.contract.ProductDTO;
-import com.exercise.ProductCustomValidation.model.Product;
-import com.exercise.ProductCustomValidation.repository.ProductRepository;
+import com.exercise.productcustomvalidation.contract.ProductDTO;
+import com.exercise.productcustomvalidation.model.Product;
+import com.exercise.productcustomvalidation.repository.ProductRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

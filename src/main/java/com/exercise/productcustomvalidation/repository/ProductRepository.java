@@ -1,6 +1,6 @@
-package com.exercise.ProductCustomValidation.repository;
+package com.exercise.productcustomvalidation.repository;
 
-import com.exercise.ProductCustomValidation.model.Product;
+import com.exercise.productcustomvalidation.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProductRepository extends JpaRepository<Product, Long> {
